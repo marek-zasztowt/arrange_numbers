@@ -1,4 +1,4 @@
-  Arrange digits !!!
+#  Arrange digits !!!
 
 Put the numbers in order from 1 to 9 by swapping them.
 Swapping is made only by pairs.
